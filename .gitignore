@@ -1,0 +1,51 @@
+# ==========================
+# Jupyter + Python Projects
+# ==========================
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment folders
+.env
+.venv
+env/
+venv/
+Pipfile.lock
+
+# VSCode and IDE settings
+.vscode/
+.idea/
+*.code-workspace
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+
+# Compiled files / build folders
+build/
+dist/
+*.egg-info/
+
+# Jupyter Notebook autosaves or temp files
+*.nbconvert.ipynb
+*.ipynb_checkpoints
+*.ipynb.tmp
+
+# OneDrive / backup system files
+~$*
+*.lnk
+
+# Output folders
+outputs/
