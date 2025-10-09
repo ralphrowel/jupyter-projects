@@ -19,3 +19,11 @@ Tools & Libraries
 * Matplotlib – Visualization and plotting
 
 * Seaborn – Advanced data visualization
+
+## 📈 Activity Overview
+
+![Ralph's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ralphrowel&theme=tokyo-night)
+
+## 📊 Repo Stats
+![GitHub Repo stars](https://img.shields.io/github/stars/ralphrowel/jupyter-projects?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/ralphrowel/jupyter-projects?style=for-the-badge)
